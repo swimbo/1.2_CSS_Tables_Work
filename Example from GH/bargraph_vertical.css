@@ -1,0 +1,19 @@
+#bargraphVertical{
+  font:0.7em Arial;
+  width:475px;
+  border:1px solid #ccc;
+}
+#bargraphVertical td{
+  padding:0;
+  margin:0;
+  vertical-align:bottom;
+  text-align:center;
+  background:#eee url(graphbg.gif) 15px bottom;
+}
+#bargraphVertical img{
+  display:block;
+  border-right:1px solid #fff;
+}
+#bargraphVertical th{
+  font-weight:normal;
+}

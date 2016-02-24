@@ -32,6 +32,32 @@
 }
 /*Exercise 3*/
 
+.bar_chart tr{
+  height: 25px;
+}
+.bar_chart th {
+  width: 15%;
+  text-align:right;
+  padding-right: 10px;
+  padding-top: 4px;
+}
+.bar_chart td {
+  width: 85%;
+}
+.bar_chart div {
+  background-color: #6699cc;
+  border-top-right-radius: 2px;
+  border-bottom-right-radius: 2px;
+  height: 20px;
+  color: white;
+  padding-top: 4px;
+  padding-left: 5px;
+}
+.bar_chart{
+  width: 100%;
+}
+
+
 /*Exercise 4*/
 
 /*Exercise 5*/
