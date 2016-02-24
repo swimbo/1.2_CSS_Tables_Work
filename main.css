@@ -57,7 +57,7 @@
   width: 100%;
 }
 /*Exercise 4*/
-/*Uncomment the ".lightbox-container" to see the background covering lightbox in it's full glory.*/
+/*Uncomment the ".lightbox-container", ".lightbox" and ".button" to see the background covering lightbox in it's full glory.*/
 /*.lightbox-container{
   position: fixed;
   top: 0px;
@@ -67,7 +67,7 @@
   z-index: 1000;
   background-color: #999999;
 }*/
-.lightbox {
+/*.lightbox {
   display: block;
   position:absolute;
   top: 50%;
@@ -78,9 +78,9 @@
   background: #FFFFFF;
   border-radius: 15px;
   width:75%;
-}
+}*/
 
-.button{
+/*.button{
   position:static;
   background: red;
   width: 120px;
@@ -91,7 +91,7 @@
   padding-top: 8px;
   font-weight: bold;
   float:right;
-}
+}*/
 
 .link{
     text-decoration: none;
