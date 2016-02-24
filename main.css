@@ -57,7 +57,8 @@
   width: 100%;
 }
 /*Exercise 4*/
-.lightbox-container{
+/*Uncomment the ".lightbox-container" to see the background covering lightbox in it's full glory.*/
+/*.lightbox-container{
   position: fixed;
   top: 0px;
   left: 0px;
@@ -65,12 +66,9 @@
   height: 100%;
   z-index: 1000;
   background-color: #999999;
-}
+}*/
 .lightbox {
-  /*Default lightbox to hidden*/
   display: block;
-
-  /*Position and style*/
   position:absolute;
   top: 50%;
   left: 50%;
@@ -100,3 +98,10 @@
     color: #FFF;
 }
 /*Exercise 5*/
+.floated-image{
+  float:left;
+  margin-right: 10px;
+}
+.overflowing{
+  overflow:hidden;
+}
