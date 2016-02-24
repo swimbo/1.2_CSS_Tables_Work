@@ -1,0 +1,37 @@
+/*Exercise 1*/
+.table{
+  width:100%;
+}
+.table tr{
+    border-bottom: 1px solid #acacac;
+    line-height: 35px;
+}
+.table th{
+    border-bottom: 1px solid #acacac;
+    line-height: 35px;
+}
+.table tr:last-child{
+  border-bottom: 0px;
+}
+/*Exercise 2*/
+.stat_table{
+  border-top:1px solid #acacac;
+  border-bottom:1px solid #acacac;
+  text-align: center;
+  width:35%;
+}
+.stat_number{
+  font-size:35px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+.stat_label{
+  font-size:12px;
+  padding-bottom: 20px;
+  color: gray;
+}
+/*Exercise 3*/
+
+/*Exercise 4*/
+
+/*Exercise 5*/
